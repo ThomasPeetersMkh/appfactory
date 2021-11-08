@@ -6,7 +6,7 @@ icomoon.io => geplaatst in css/icons
 
 ## reset
 
-erik meyer reset.css
+erik meyer [reset.css]
 
 ## tips
 

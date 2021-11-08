@@ -2,11 +2,11 @@
 
 ## icons
 
-icomoon.io => geplaatst in css/icons
+icomoon.io => geplaatst in css/icons => [icomoon.io](https://icomoon.io)
 
 ## reset
 
-erik meyer [reset.css]
+erik meyer [reset.css](https://meyerweb.com/eric/tools/css/reset/)
 
 ## tips
 

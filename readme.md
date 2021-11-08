@@ -13,3 +13,7 @@ erik meyer [reset.css](https://meyerweb.com/eric/tools/css/reset/)
 - box-sizing niet vergeten
 - extra aandacht voor de volgorde inladen css-files
 - altijd eens icoontjes testen (:before =>content:"iconcode" + font family correct instellen)
+
+## opdracht
+
+![](/+assets/design-appfactory.jpg)

@@ -8,6 +8,10 @@ icomoon.io => geplaatst in css/icons => [icomoon.io](https://icomoon.io)
 
 erik meyer [reset.css](https://meyerweb.com/eric/tools/css/reset/)
 
+## lettertype
+
+Lato (bold, light, black, regular)
+
 ## tips
 
 - box-sizing niet vergeten

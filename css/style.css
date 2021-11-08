@@ -18,3 +18,34 @@ h1::after {
   color: yellow;
   font-size: 33px;
 }
+
+.container {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1000px;
+  min-height: 100px;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+header {
+  background-color: #2d303a;
+}
+
+.slider {
+  background-color: #f06c64;
+}
+.services {
+  background-color: #f2f2f2;
+}
+.portofolio {
+  background-color: #2d303a;
+}
+.about {
+  background-color: #f2f2f2;
+}
+.contact {
+  background-color: #f06c64;
+}
+footer {
+  background-color: #2d303a;
+}
